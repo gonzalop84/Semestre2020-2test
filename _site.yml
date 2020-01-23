@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Semestre 2020-2"
 navbar:
-  title: "MyLabJournal"
+  title: "Semestre 2020-2"
   left:
     - text: "Home"
       href: index.html
