@@ -2,10 +2,12 @@ name: "Semestre 2020-2"
 navbar:
   title: "Semestre 2020-2"
   left:
-    - text: "Home"
+    - text: "Presentación"
       href: index.html
-    - text: "Journal"
+    - text: "Inferencia Estadística"
       href: Journal.html
-    - text: "Links"
+    - text: "Modelos no Paramétricos y de Regresión"
+      href: Links.html
+    - text: "Modelos Lineales"
       href: Links.html
 output_dir: "docs"
